@@ -1,0 +1,13 @@
+.box {
+    padding: 2rem;
+    background-image: url("https://img.freepik.com/premium-photo/toy-shopping-cart-with-boxes-blue-background_339191-217.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 60rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:#2E5077 ;
+}
+
